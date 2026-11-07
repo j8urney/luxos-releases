@@ -6,6 +6,16 @@
     <description>Luxos updates</description>
     <language>en</language>
     <item>
+      <title>Luxos 0.12.0 beta (28)</title>
+      <pubDate>Sat, 07 Nov 2026 18:21:12 GMT</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>0.12.0 beta</sparkle:shortVersionString>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Luxos 0.12.0 beta</h3><ul><li>Switch fixtures between RGB and RGBW from the inspector</li></ul>]]></description>
+      <enclosure url="https://github.com/j8urney/luxos-releases/releases/download/beta-28/Luxos-0.12.0-beta-28.zip" length="7238101" type="application/octet-stream" sparkle:edSignature="jFQcFjxgmGpIA1EFpB+TM7KtVuMRG1hzaW2h/ablaXak8lhE2aOZoEEWhf+gnGRQWwiOfNVAIUFk9oUqA6DRAQ=="/>
+    </item>
+    <item>
       <title>Luxos 0.12.0 beta (26)</title>
       <pubDate>Fri, 06 Nov 2026 22:58:35 GMT</pubDate>
       <sparkle:version>26</sparkle:version>
