@@ -6,6 +6,16 @@
     <description>Luxos updates</description>
     <language>en</language>
     <item>
+      <title>Luxos 0.12.0 beta (29)</title>
+      <pubDate>Sat, 07 Nov 2026 20:28:32 GMT</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.12.0 beta</sparkle:shortVersionString>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Luxos 0.12.0 beta</h3><ul><li>Layer cues over looks; let one-shots stack and release; fix iOS release and Done</li></ul>]]></description>
+      <enclosure url="https://github.com/j8urney/luxos-releases/releases/download/beta-29/Luxos-0.12.0-beta-29.zip" length="7249872" type="application/octet-stream" sparkle:edSignature="QZn+fxkIh3TlKoKvgq4ZJjpN0j3z56yTdq7A3QR/NQiSig00PC8FGVzLSXPZzxCPR6rvBi1OEJKroqewsUJjDg=="/>
+    </item>
+    <item>
       <title>Luxos 0.12.0 beta (28)</title>
       <pubDate>Sat, 07 Nov 2026 18:21:12 GMT</pubDate>
       <sparkle:version>28</sparkle:version>
