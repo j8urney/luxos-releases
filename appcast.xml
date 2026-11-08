@@ -6,6 +6,16 @@
     <description>Luxos updates</description>
     <language>en</language>
     <item>
+      <title>Luxos 0.12.0 beta (31)</title>
+      <pubDate>Sun, 08 Nov 2026 22:27:30 GMT</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.12.0 beta</sparkle:shortVersionString>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Luxos 0.12.0 beta</h3><ul><li>Redesign the app around Scenes and Playback, with executors, single cues and a real timeline editor</li></ul>]]></description>
+      <enclosure url="https://github.com/j8urney/luxos-releases/releases/download/beta-31/Luxos-0.12.0-beta-31.zip" length="8235733" type="application/octet-stream" sparkle:edSignature="i//QeAiFCfST+PoH4wPIFWAI+xmrxCHCmOJiVlywgRe+mz3eKTbKBrZ4IaHY3v9y1FK/k/MHc772YfxdmQH5BA=="/>
+    </item>
+    <item>
       <title>Luxos 0.12.0 beta (30)</title>
       <pubDate>Sat, 07 Nov 2026 20:37:27 GMT</pubDate>
       <sparkle:version>30</sparkle:version>
