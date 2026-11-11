@@ -6,6 +6,16 @@
     <description>Luxos updates</description>
     <language>en</language>
     <item>
+      <title>Luxos 0.14.0 beta (43)</title>
+      <pubDate>Wed, 11 Nov 2026 16:09:10 GMT</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>0.14.0 beta</sparkle:shortVersionString>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Luxos 0.14.0 beta</h3><ul><li>ENTTEC USB: always send whole DMX frames, and log when the port opens or fails</li></ul>]]></description>
+      <enclosure url="https://github.com/j8urney/luxos-releases/releases/download/beta-43/Luxos-0.14.0-beta-43.zip" length="9503330" type="application/octet-stream" sparkle:edSignature="yNn3TP30qYaa3HMgCwx2TGz/Mefv4CO/xp8++JoocZki2ScJ9H78md2nE01OUeDqWG9Z7U4GnTcHTc9Xyq+wDw=="/>
+    </item>
+    <item>
       <title>Luxos 0.14.0 beta (42)</title>
       <pubDate>Wed, 11 Nov 2026 15:49:00 GMT</pubDate>
       <sparkle:version>42</sparkle:version>
