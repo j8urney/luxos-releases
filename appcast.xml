@@ -6,6 +6,16 @@
     <description>Luxos updates</description>
     <language>en</language>
     <item>
+      <title>Luxos 0.14.0 beta (45)</title>
+      <pubDate>Wed, 11 Nov 2026 17:15:43 GMT</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>0.14.0 beta</sparkle:shortVersionString>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Luxos 0.14.0 beta</h3><ul><li>File &gt; Open Recent, and the Mac app uses the iOS app&#x27;s icon</li></ul>]]></description>
+      <enclosure url="https://github.com/j8urney/luxos-releases/releases/download/beta-45/Luxos-0.14.0-beta-45.zip" length="11282123" type="application/octet-stream" sparkle:edSignature="3rykc5N6UKI/7S3DT0T1/Qi3uNlVLtlWrhxhpYQU79rVb0S5fk+jXJTObcv1PNFsbmtLs1Dthuq04dQncNplDA=="/>
+    </item>
+    <item>
       <title>Luxos 0.14.0 beta (44)</title>
       <pubDate>Wed, 11 Nov 2026 17:07:44 GMT</pubDate>
       <sparkle:version>44</sparkle:version>
