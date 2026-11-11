@@ -6,6 +6,16 @@
     <description>Luxos updates</description>
     <language>en</language>
     <item>
+      <title>Luxos 0.14.0 beta (44)</title>
+      <pubDate>Wed, 11 Nov 2026 17:07:44 GMT</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>0.14.0 beta</sparkle:shortVersionString>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Luxos 0.14.0 beta</h3><ul><li>Agents (MCP) can program the whole show: looks, cue lists, timelines, executors, zones, paths, fixtures</li></ul>]]></description>
+      <enclosure url="https://github.com/j8urney/luxos-releases/releases/download/beta-44/Luxos-0.14.0-beta-44.zip" length="9996917" type="application/octet-stream" sparkle:edSignature="sJ3nE2B9rilTG4YhGUmRWytbIiTmnyERK+X9uXpqT15Oop64qy5rzX+0OXsK/q1OYzUsU8fjnUK+E5BsA5u7AA=="/>
+    </item>
+    <item>
       <title>Luxos 0.14.0 beta (43)</title>
       <pubDate>Wed, 11 Nov 2026 16:09:10 GMT</pubDate>
       <sparkle:version>43</sparkle:version>
