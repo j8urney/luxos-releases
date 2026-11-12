@@ -6,6 +6,16 @@
     <description>Luxos updates</description>
     <language>en</language>
     <item>
+      <title>Luxos 0.14.0 beta (54)</title>
+      <pubDate>Thu, 12 Nov 2026 00:45:32 GMT</pubDate>
+      <sparkle:version>54</sparkle:version>
+      <sparkle:shortVersionString>0.14.0 beta</sparkle:shortVersionString>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Luxos 0.14.0 beta</h3><ul><li>Pixel count for any selected strip, straight or shaped</li></ul>]]></description>
+      <enclosure url="https://github.com/j8urney/luxos-releases/releases/download/beta-54/Luxos-0.14.0-beta-54.zip" length="11686042" type="application/octet-stream" sparkle:edSignature="jBm+0Y0Mu4JT6Arlr3JsQ7F0m89miM2RyWv6oMJurCkSpfr0C73HFbTIQ8jPkOPGNvwKMRezqWqxXfIWV730Bg=="/>
+    </item>
+    <item>
       <title>Luxos 0.14.0 beta (53)</title>
       <pubDate>Thu, 12 Nov 2026 00:12:39 GMT</pubDate>
       <sparkle:version>53</sparkle:version>
