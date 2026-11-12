@@ -6,6 +6,16 @@
     <description>Luxos updates</description>
     <language>en</language>
     <item>
+      <title>Luxos 0.14.0 beta (53)</title>
+      <pubDate>Thu, 12 Nov 2026 00:12:39 GMT</pubDate>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>0.14.0 beta</sparkle:shortVersionString>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Luxos 0.14.0 beta</h3><ul><li>Multi Gradient starts still however it is added, and says whether it is still or traveling</li></ul>]]></description>
+      <enclosure url="https://github.com/j8urney/luxos-releases/releases/download/beta-53/Luxos-0.14.0-beta-53.zip" length="11670472" type="application/octet-stream" sparkle:edSignature="Of2vqnC4c+Wozj6dU2KlrIb0eHQGVBL9ir6lEIAx9Tk/2vRu4CaUY/lXqYwHwfVW7uO7xQsnUbwkcyky5XHDAg=="/>
+    </item>
+    <item>
       <title>Luxos 0.14.0 beta (52)</title>
       <pubDate>Wed, 11 Nov 2026 23:35:28 GMT</pubDate>
       <sparkle:version>52</sparkle:version>
