@@ -6,6 +6,16 @@
     <description>Luxos updates</description>
     <language>en</language>
     <item>
+      <title>Luxos 0.14.0 beta (59)</title>
+      <pubDate>Mon, 16 Nov 2026 22:47:13 GMT</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>0.14.0 beta</sparkle:shortVersionString>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Luxos 0.14.0 beta</h3><ul><li>Merge pull request #3: Null pixels: keep hidden pixels dark without moving anything else, and find them on the lights</li></ul>]]></description>
+      <enclosure url="https://github.com/j8urney/luxos-releases/releases/download/beta-59/Luxos-0.14.0-beta-59.zip" length="11806831" type="application/octet-stream" sparkle:edSignature="lsuIRCZhcQ4Mknl8pcwvCoUhf4GNTgS6r88oDygjZYprKv0IAbYYswVQgyJ3+8C5XXRJfevRo958odOsXzmmCg=="/>
+    </item>
+    <item>
       <title>Luxos 0.14.0 beta (54)</title>
       <pubDate>Thu, 12 Nov 2026 00:45:32 GMT</pubDate>
       <sparkle:version>54</sparkle:version>
