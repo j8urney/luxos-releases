@@ -6,6 +6,16 @@
     <description>Luxos updates</description>
     <language>en</language>
     <item>
+      <title>Luxos 0.14.0 beta (62)</title>
+      <pubDate>Tue, 17 Nov 2026 22:45:52 GMT</pubDate>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>0.14.0 beta</sparkle:shortVersionString>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Luxos 0.14.0 beta</h3><ul><li>Timelines fade back to idle from their last segment, so the end no longer cuts when the audio runs longer</li></ul>]]></description>
+      <enclosure url="https://github.com/j8urney/luxos-releases/releases/download/beta-62/Luxos-0.14.0-beta-62.zip" length="12087760" type="application/octet-stream" sparkle:edSignature="u2broj/L1F0j/HPXWaqn7NQdey0N691831QWTl1GAyu2Clp/Wno8sya8xXBB6WUjhGK/Rm9rLB2fJ13sYirvDQ=="/>
+    </item>
+    <item>
       <title>Luxos 0.14.0 beta (61)</title>
       <pubDate>Tue, 17 Nov 2026 20:01:51 GMT</pubDate>
       <sparkle:version>61</sparkle:version>
