@@ -6,6 +6,16 @@
     <description>Luxos updates</description>
     <language>en</language>
     <item>
+      <title>Luxos 0.14.0 beta (60)</title>
+      <pubDate>Tue, 17 Nov 2026 18:46:17 GMT</pubDate>
+      <sparkle:version>60</sparkle:version>
+      <sparkle:shortVersionString>0.14.0 beta</sparkle:shortVersionString>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Luxos 0.14.0 beta</h3><ul><li>Timelines fade back to idle, stay quick with thousands of segments and open their scenes; show mode from a remote, and a new show page</li></ul>]]></description>
+      <enclosure url="https://github.com/j8urney/luxos-releases/releases/download/beta-60/Luxos-0.14.0-beta-60.zip" length="12062125" type="application/octet-stream" sparkle:edSignature="2KHJ2OaQsTKjJVFN+GklySB94XF4/BD9jZU4P4MSzcmW1QZbkAamt7eq3oD9e5uvM7C8Ozm7lHPdI6plHvYiCQ=="/>
+    </item>
+    <item>
       <title>Luxos 0.14.0 beta (59)</title>
       <pubDate>Mon, 16 Nov 2026 22:47:13 GMT</pubDate>
       <sparkle:version>59</sparkle:version>
