@@ -6,6 +6,16 @@
     <description>Luxos updates</description>
     <language>en</language>
     <item>
+      <title>Luxos 0.14.0 beta (61)</title>
+      <pubDate>Tue, 17 Nov 2026 20:01:51 GMT</pubDate>
+      <sparkle:version>61</sparkle:version>
+      <sparkle:shortVersionString>0.14.0 beta</sparkle:shortVersionString>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Luxos 0.14.0 beta</h3><ul><li>Send each controller&#x27;s universes in order, so the first pixel of a universe keeps its red and green</li></ul>]]></description>
+      <enclosure url="https://github.com/j8urney/luxos-releases/releases/download/beta-61/Luxos-0.14.0-beta-61.zip" length="12083523" type="application/octet-stream" sparkle:edSignature="tEbJN9m77nxvTXb/HZgG0lNU4CBtKfdUUp5VqktJ/82w4Fj+pF4FN3tj8Z4qOt8vGkbhFocM0ZWloKgyf3xDBQ=="/>
+    </item>
+    <item>
       <title>Luxos 0.14.0 beta (60)</title>
       <pubDate>Tue, 17 Nov 2026 18:46:17 GMT</pubDate>
       <sparkle:version>60</sparkle:version>
